@@ -1,0 +1,4 @@
+x=msgbox("GENDER SELECTION "& vbnewline &" To select your gender you will need to type either M/m for male or F/f for female selection, then press enter" ,0,"Help")
+x=msgbox("INFORMATION INPUT "& vbnewline &" To enter your age you will need to type numbers only and press enter "& vbnewline &" To enter your height you need to type your height in cm, then press enter, however only numbers should be entered here "& vbnewline &" To enter your weight you need to type your weight in kg, then press enter, however only numbers should be entered here",0,"Help")  
+x=msgbox("Activity level "& vbnewline &" To enter your activity level you need to type the letter assigned, which is near each option, then press enter ",0,"Help") 
+x=msgbox("RESULTS "& vbnewline &" The first result shows your BMR result "& vbnewline &" The second results sows how many calories you require each day",0,"Help") 
